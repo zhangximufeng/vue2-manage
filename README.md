@@ -13,7 +13,7 @@
 >  开发环境 macOS 10.12.4  nodejs 6.10.0
 
 >  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
->  感谢开源作者 *cangdu* 分享 👍
+>  特别感谢辰妹子[@bailichen](https://github.com/bailichen)，在百忙之中抽出时间和[@cangdu](https://github.com/bailicangdu)一起完成了这个项目，辛苦了🌹
 >  传送门：[前端项目地址](https://github.com/zhangximufeng/vueDemo)  、 [后台系统地址](https://github.com/zhangximufeng/node-elm)  
 
 
